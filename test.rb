@@ -1,0 +1,2 @@
+a = "testtest!"
+puts a
